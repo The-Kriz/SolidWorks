@@ -7,6 +7,10 @@
 
     This contain the CAD file for custom-made Study table 
 
-3)Other
+3)Mechanical_Gears
+
+    This contain the CAD file of different Gear ratio 
+
+4)Other
 
     This Folder contain all the SolidWorks self training files 
